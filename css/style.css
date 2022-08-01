@@ -1,0 +1,333 @@
+*{ margin: 0; }
+
+body { font-family: 'Roboto', sans-serif; font-family: 'Raleway', sans-serif; } 
+
+
+.container { width:1200px;height: 250px;margin: 0 auto;}
+
+header {background-image: url(../img/donation3.jpg);background-repeat: no-repeat;background-size: cover;text-align: center;height: 500px;}
+
+header p {padding-bottom: 27px;color: #fff;width: 40%;margin: 0 auto;font-weight: 700;font-size: 18px; letter-spacing: 1px;}
+
+header h1 {padding: 100px 0px 30px;color: #fff;font-size: 65px;}
+
+header button {
+    padding: 15px 17px;
+    background-color: #f16a6a;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+    border: 0;
+    border-radius: 5px;
+    text-transform: uppercase;
+    }
+
+
+
+.feature { padding-bottom: 65px; }
+.f-box p {text-align: center;color: #b3b3b3;font-size: 25px;padding-top: 40px;}
+.f-box span {border: 1px solid gray;display: flex;width: 30%;margin: 0 auto;margin-top: 25px;margin-bottom: 20px;}
+.f-box button {margin: 0 auto;display: block;padding: 13px 15px;font-size: 20px;background-color: #ff5959;color: #fff;border: 0;border-radius: 5px;font-weight: 500;}
+
+.feature-box { text-align: center; }
+.feature-box h1 { padding: 90px 0px 35px; font-size: 50px;  color: black;}
+
+.feature-box p { color: gray; font-weight: 500; width: 50%;margin: 0 auto;}
+.s-c{  color: cadetblue; font-size: 20px; font-weight: bold;}
+.feature-amount {display: flex;justify-content: center;margin-bottom: 50px;margin-top: 100px;}
+
+.amount {padding-left: 20px;}
+
+.mid {
+    background-color: #ffeeee;
+    padding: 25px 20px;
+    color: #ff6262;
+    border: 2px solid #ff5959;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+
+.amount a {
+    background-color: #fafafa;
+    padding: 25px 20px;
+    color: #707070;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+
+.plan-section h1 {  text-align: center;padding-bottom: 20px;font-size: 40px;}
+.plan-section p {  width: 50%;margin: 0 auto;color: gray;line-height: 1.5;text-align: center;}
+
+.cart {  }
+.chart {  display: flex;margin-left: 20px;justify-content: flex-start;}
+.box {  background-color: #edf5f6;padding: 10px 20px 50px;margin: 0px 42px;border-radius: 10px;}
+.box-2 {  background-color: #ffeeee;padding: 10px 20px 50px;margin: 0px 42px;border-radius: 10px;}
+.box-3 {  background-color: #fff4d6;padding: 10px 20px 50px;margin: 0px 42px;border-radius: 10px;}
+.box, .box-2,.box-3,  h5 {  padding: 20px 10px 17px;font-size: 25px;color: black;}
+.box, .box-2,.box-3,  p  {  color: gray;padding: 13px 11px 20px;font-size: 17px;}
+
+
+
+
+
+
+
+
+.our-mission{
+    display: flex;
+}
+.mission-text{
+    width: 40%;
+    margin-left: 205px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+
+    
+}
+.mission-text h1{
+    font-size: 36px;
+    font-weight: 600;
+    text-align: left;
+    margin-bottom: 50px;
+}
+.mission-span{
+    color: rgb(238, 70, 70);
+}
+.mission-text p{
+    text-align: left;
+    font-weight: 700;
+    background-color: olive;
+    color: #fff;
+    border-radius: 8px;
+    padding: 30px 6px;
+}
+.image{
+    width: 40%;
+    margin-left: 10px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+
+}
+.image img{
+    width: 660px;
+    border-radius: 5px;
+    margin-left: 79px;
+}
+.mission-text a{
+    text-decoration: none;
+    padding: 10px;
+    background-color: rgb(238, 70, 70);
+    color: white;
+    font-weight: 500;
+    text-align: left;
+    margin-left: -370px;
+    border-radius: 5px;
+    
+
+}
+
+.section-end { margin-top: 100px; }
+
+
+.email-part {  text-align: center;padding: 55px 0px;}
+.email-part h1 {  }
+.email-part p {  width: 50%;margin: 0 auto;}
+.subscribe-part {  padding: 35px 0px;background-color: #fff4d6;width: 40%;margin: 0 auto;border-radius: 10px;}
+
+
+input{
+    margin-top: 15px;
+    padding: 9px;
+    width: 245px;
+    background-color: #d9d9d9;
+    border: 1px solid rgb(236, 231, 231) ;
+    border-radius: 5px;
+    color: #aa9f9f;
+}
+#input{
+    padding: 10px;
+    width: 134px;
+    border-radius: 5px;
+    background-color: rgb(238, 70, 70);
+    border: 1px solid rgb(238, 70, 70);
+    color: #fff;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+footer{  background-color: #0b0d17;text-align: center;height: 180px;}
+
+footer h1 {  font-style: italic;color: #fff;font-size: 31px;letter-spacing: 8px;}
+footer img {  margin-top: 50px;}*{ margin: 0; }
+
+body { font-family: 'Roboto', sans-serif; font-family: 'Raleway', sans-serif; } 
+
+
+.container { width:1200px;height: 190px;margin: 0 auto;}
+
+header {background-image: url(../img/donation3.jpg);background-repeat: no-repeat;background-size: cover;text-align: center;height: 500px;}
+
+header p {padding-bottom: 27px;color: #fff;width: 40%;margin: 0 auto;font-weight: 700;font-size: 18px; letter-spacing: 1px;}
+
+header h1 {padding: 100px 0px 30px;color: #fff;font-size: 65px;}
+
+header button {
+    padding: 15px 17px;
+    background-color: #f16a6a;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+    border: 0;
+    border-radius: 5px;
+    text-transform: uppercase;
+    }
+
+
+
+.feature { padding-bottom: 65px; }
+.f-box p {text-align: center;color: #b3b3b3;font-size: 25px;padding-top: 40px;}
+.f-box span {border: 1px solid gray;display: flex;width: 30%;margin: 0 auto;margin-top: 25px;margin-bottom: 20px;}
+.f-box button {margin: 0 auto;display: block;padding: 13px 15px;font-size: 20px;background-color: #ff5959;color: #fff;border: 0;border-radius: 5px;font-weight: 500;}
+
+.feature-box { text-align: center; }
+.feature-box h1 { padding: 90px 0px 35px; font-size: 50px;  color: black;}
+
+.feature-box p { color: gray; font-weight: 500; width: 50%;margin: 0 auto;}
+.s-c{  color: cadetblue; font-size: 20px; font-weight: bold;}
+.feature-amount {display: flex;justify-content: center;margin-bottom: 50px;margin-top: 100px;}
+
+.amount {padding-left: 20px;}
+
+.mid {
+    background-color: #ffeeee;
+    padding: 25px 20px;
+    color: #ff6262;
+    border: 2px solid #ff5959;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+
+.amount a {
+    background-color: #fafafa;
+    padding: 25px 20px;
+    color: #707070;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+
+.plan-section h1 {  text-align: center;padding-bottom: 20px;font-size: 40px;}
+.plan-section p {  width: 50%;margin: 0 auto;color: gray;line-height: 1.5;text-align: center;}
+
+.cart {  }
+.chart {  display: flex;margin-left: 20px;justify-content: flex-start;}
+.box {  background-color: #edf5f6;padding: 10px 20px 50px;margin: 0px 42px;border-radius: 10px;}
+.box-2 {  background-color: #ffeeee;padding: 10px 20px 50px;margin: 0px 42px;border-radius: 10px;}
+.box-3 {  background-color: #fff4d6;padding: 10px 20px 50px;margin: 0px 42px;border-radius: 10px;}
+.box, .box-2,.box-3,  h5 {  padding: 20px 10px 17px;font-size: 25px;color: black;}
+.box, .box-2,.box-3,  p  {  color: gray;padding: 13px 11px 20px;font-size: 17px;}
+
+
+
+
+
+
+
+
+.our-mission{
+    display: flex;
+}
+.mission-text{
+    width: 40%;
+    margin-left: 205px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+
+    
+}
+.mission-text h1{
+    font-size: 36px;
+    font-weight: 600;
+    text-align: left;
+    margin-bottom: 50px;
+}
+.mission-span{
+    color: rgb(238, 70, 70);
+}
+.mission-text p{
+    text-align: left;
+    font-weight: 700;
+    background-color: olive;
+    color: #fff;
+    border-radius: 8px;
+    padding: 30px 6px;
+}
+.image{
+    width: 40%;
+    margin-left: 10px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+
+}
+.image img{
+    width: 660px;
+    border-radius: 5px;
+    margin-left: 79px;
+}
+.mission-text a{
+    text-decoration: none;
+    padding: 10px;
+    background-color: rgb(238, 70, 70);
+    color: white;
+    font-weight: 500;
+    text-align: left;
+    margin-left: -370px;
+    border-radius: 5px;
+    
+
+}
+
+.section-end { margin-top: 100px; }
+
+
+.email-part {  text-align: center;padding: 55px 0px;}
+.email-part h1 {  }
+.email-part p {  width: 50%;margin: 0 auto;}
+.subscribe-part {  padding: 35px 0px;background-color: #fff4d6;width: 40%;margin: 0 auto;border-radius: 10px;}
+
+
+input{
+    margin-top: 15px;
+    padding: 9px;
+    width: 245px;
+    background-color: #d9d9d9;
+    border: 1px solid rgb(236, 231, 231) ;
+    border-radius: 5px;
+    color: #aa9f9f;
+}
+#input{
+    padding: 10px;
+    width: 134px;
+    border-radius: 5px;
+    background-color: rgb(238, 70, 70);
+    border: 1px solid rgb(238, 70, 70);
+    color: #fff;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+footer{  background-color: #0b0d17;text-align: center;height: 180px;}
+
+footer h1 {  font-style: italic;color: #fff;font-size: 31px;letter-spacing: 8px;}
+footer img {  margin-top: 50px;}
